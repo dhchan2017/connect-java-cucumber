@@ -335,7 +335,7 @@
 							</execution>
 						</executions>
 						<configuration>
-							<mainClass>nz.co.clearpoint.service.CucumberReportMerger</mainClass>
+							<mainClass>cd.connect.service.CucumberReportMerger</mainClass>
 							<arguments>
 								<argument>${project.basedir}/target/cucumber-reports/</argument>
 								<argument>${project.basedir}/target/html-reports</argument>
@@ -395,7 +395,7 @@
 							</execution>
 						</executions>
 						<configuration>
-							<mainClass>nz.co.clearpoint.service.CucumberReportMerger</mainClass>
+							<mainClass>cd.connect.service.CucumberReportMerger</mainClass>
 							<arguments>
 								<argument>${project.basedir}/target/cucumber-reports/</argument>
 								<argument>${project.basedir}/target/html-reports</argument>

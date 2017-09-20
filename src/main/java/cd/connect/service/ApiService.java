@@ -1,4 +1,4 @@
-package nz.co.clearpoint.service;
+package cd.connect.service;
 
 import cd.connect.samples.slackapp.api.MessagesService;
 import cd.connect.samples.slackapp.api.Messagelist;

@@ -1,4 +1,4 @@
-package nz.co.clearpoint.service;
+package cd.connect.service;
 
 import org.apache.commons.io.FileUtils;
 import org.json.simple.JSONArray;

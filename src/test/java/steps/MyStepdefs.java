@@ -4,7 +4,7 @@ import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
 import cd.connect.samples.slackapp.api.MessagesService;
 import cd.connect.samples.slackapp.api.Messagelist;
-import nz.co.clearpoint.service.ApiService;
+import cd.connect.service.ApiService;
 
 
 import org.slf4j.Logger;
